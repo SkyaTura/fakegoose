@@ -1,6 +1,6 @@
 {
-  "name": "fakegoose",
-  "version": "0.0.4",
+  "name": "fakegoose-fork",
+  "version": "0.0.6",
   "description": "Faker + Mongoose",
   "main": "index.js",
   "bin": {
