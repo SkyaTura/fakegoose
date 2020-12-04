@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/andrejewski/fakegoose#readme",
   "devDependencies": {
-    "mocha": "^6.2.2"
+    "mocha": "^8.2.1"
   },
   "dependencies": {
     "async": "^2.0.0-rc.6",
